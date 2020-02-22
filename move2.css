@@ -219,3 +219,62 @@ top: 91%;
 }
 
 
+.move1 .left.arm {
+    position: absolute;
+    left: 44%;
+    z-index: -1;
+    top: 50%;
+    transform: rotateZ(25deg);
+
+
+}
+
+.move1 .left.hita {
+
+    position: absolute;
+    left: 49%;
+    top: 68%;
+    transform:rotateZ(-40deg);
+    z-index: -1; 
+
+
+}
+
+.move1 .right.hita {
+
+    position: absolute;
+    top:70%;
+    left: 45%;
+    z-index: -2;
+}
+
+.move1 .right.binti {
+    position: absolute;
+    top: 82%;
+    left:45%;
+
+}
+
+.move1 .right.paa {
+    position: absolute;
+    top: 100%;
+    left:45%;
+
+}
+
+
+.move1 .left.binti {
+
+    position: absolute;
+    left: 50%;
+    top: 76%;
+    z-index:-2;
+
+}
+
+.move1 .left.paa {
+
+    position: absolute;
+    left: 50%;
+    top: 95%;
+}
